@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "qiniu",
+      "type": "com.config.QiNiuConfigBean",
+      "sourceType": "com.config.QiNiuConfigBean"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
